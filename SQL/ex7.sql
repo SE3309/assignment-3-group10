@@ -1,3 +1,5 @@
+-- Made by Oliver Good
+
 USE portfolio_app;
 
 
