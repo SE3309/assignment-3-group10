@@ -1,3 +1,5 @@
+-- Created by: Martin Makaveev
+
 CREATE TABLE `User` (
     user_id INT NOT NULL AUTO_INCREMENT,
     email VARCHAR(100) NOT NULL,
